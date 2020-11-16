@@ -1,0 +1,1 @@
+python train.py eq --train --root experiments/eq_test
