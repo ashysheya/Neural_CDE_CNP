@@ -1,2 +1,1 @@
-# Neural_ODE_CNP
-Neural ODE CNP model
+# Neural_CDE_CNP
